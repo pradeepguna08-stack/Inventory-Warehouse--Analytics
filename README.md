@@ -1,2 +1,37 @@
-# Inventory-Warehouse- Analytics
-**Inventory & Warehouse Analytics**  Developed an end-to-end Inventory & Warehouse Analytics project using Python, Pandas, SQL Server, and Power BI to analyze inventory levels, stock availability, stockouts, and product spoilage. Performed data validation and preprocessing, analyzed inventory performance using SQL queries, and created an interactive Power BI dashboard with KPI cards and visualizations. The project aims to help businesses monitor stock movement, identify inventory inefficiencies, reduce spoilage, and support data-driven warehouse management decisions.
+**Inventory & Warehouse Analytics**
+
+**📌 Project Overview**
+An end-to-end data analytics project focused on analyzing inventory performance, stock availability, and warehouse efficiency to support data-driven business decisions.
+
+**🛠️ Tools & Technologies**
+
+- Python (Pandas, NumPy)
+- SQL Server
+- Power BI
+- Jupyter Notebook
+
+**📊 Key Analysis**
+
+- Inventory stock level analysis
+- Stockout rate monitoring
+- Product spoilage analysis
+- Opening stock vs. closing stock comparison
+- Units received and inventory movement analysis
+- Store-wise and product-wise performance
+
+**💡 Business Objectives**
+
+- Identify inventory inefficiencies
+- Monitor stock availability and stockout risks
+- Understand product spoilage patterns
+- Improve inventory management and warehouse operations
+- Support data-driven business decisions
+
+**📈 Deliverables**
+
+- Data preprocessing and exploratory data analysis (EDA)
+- SQL-based business analysis
+- Interactive Power BI dashboard with KPIs and visualizations
+
+## 🎯 Outcome
+Transformed inventory data into meaningful business insights to support better stock management, reduce waste, and improve operational efficiency.
